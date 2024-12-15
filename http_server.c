@@ -4,7 +4,6 @@
 #include <arpa/inet.h>
 #include <unistd.h>
 #include <sys/socket.h>
-// #include <handle_client.h>
 
 #define PORT 5000 // Default port for the server
 
