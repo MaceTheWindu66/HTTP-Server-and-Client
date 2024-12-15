@@ -1,4 +1,4 @@
-Hello! This is my code for Project 1 :)
+NOTE: THIS CODE MUST BE RUN IN A LINUX ENVIRONMENT
 
 To run, first you must make the c files into executables. To make, just type make into the terminal.
 
